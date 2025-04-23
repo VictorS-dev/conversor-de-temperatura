@@ -16,4 +16,4 @@ Um site simples que converte valores de temperatura entre Celsius, Fahrenheit e 
 
 ## 💻 Preview
 
-🔗 [Clique aqui para ver online](https://victors-dev.github.io/conversor-de-temperatura/)
+🔗 [Clique aqui para ver online] (https://victors-dev.github.io/conversor-de-temperatura/)
